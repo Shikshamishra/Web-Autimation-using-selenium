@@ -8,4 +8,4 @@ Web automation is the magic by which you can do the following:-
 3) automate google search and take note
 4) you can also check your attendance from your university website just by one click.
 
-There are a lot of packages you can use but i have use selenium for web automation.
+There are a lot of packages you can use but i have used selenium for web automation.
